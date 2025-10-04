@@ -29,7 +29,7 @@ h3 {
   align-items: center;
   justify-content: space-between;
   padding: 10px var(--padding);
-  background-color: var(--primary-color);
+  background-color: #00688f;
   box-shadow: 0 2px 5px var(--shadow-color);
 }
 
@@ -405,4 +405,5 @@ h3 {
     display: block;
     margin: 0 auto;
   }
+
 }
